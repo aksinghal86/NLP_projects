@@ -133,6 +133,4 @@ stanford*
 *.zip
 
 # others
-AFINN/
-contractions.py
 model_evaluations_utils.py
