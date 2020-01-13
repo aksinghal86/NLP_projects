@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# stanford parser
+stanford*
+*.zip
+
+# others
+AFINN/
+contractions.py
+model_evaluations_utils.py
